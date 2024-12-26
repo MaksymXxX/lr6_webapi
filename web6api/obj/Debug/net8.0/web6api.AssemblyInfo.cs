@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web6api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef7107a8af2f01205e3c3ccbfde40bb7a079ac80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f00e1aea8531ff4364ab40ae933583fc3f628515")]
 [assembly: System.Reflection.AssemblyProductAttribute("web6api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web6api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowGithubIO",
         policy =>
         {
-            policy.WithOrigins("https://maksymxxx.github.io/lr6_web").AllowAnyMethod().AllowAnyHeader();
+            policy.WithOrigins("https://maksymxxx.github.io").AllowAnyMethod().AllowAnyHeader();
         });
 }); 
 
