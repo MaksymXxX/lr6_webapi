@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lr6 web\\web6api\\web6api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88968F0B-C8E9-4CAA-A522-15BBCB33BE9C}|web6api\\web6api.csproj|d:\\lr6 web\\web6api\\web6api\\web6api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88968F0B-C8E9-4CAA-A522-15BBCB33BE9C}|web6api\\web6api.csproj|solutionrelative:web6api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lr6 web\\web6api\\web6api\\web6api\\Program.cs",
+              "RelativeDocumentMoniker": "web6api\\Program.cs",
+              "ToolTip": "D:\\lr6 web\\web6api\\web6api\\web6api\\Program.cs",
+              "RelativeToolTip": "web6api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:28:05.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

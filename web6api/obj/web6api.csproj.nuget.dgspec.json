@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web6api\\web6api\\web6api.csproj": {}
+    "D:\\lr6 web\\web6api\\web6api\\web6api\\web6api.csproj": {}
   },
   "projects": {
-    "E:\\web6api\\web6api\\web6api.csproj": {
+    "D:\\lr6 web\\web6api\\web6api\\web6api\\web6api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web6api\\web6api\\web6api.csproj",
+        "projectUniqueName": "D:\\lr6 web\\web6api\\web6api\\web6api\\web6api.csproj",
         "projectName": "web6api",
-        "projectPath": "E:\\web6api\\web6api\\web6api.csproj",
-        "packagesPath": "C:\\Users\\makcp\\.nuget\\packages\\",
-        "outputPath": "E:\\web6api\\web6api\\obj\\",
+        "projectPath": "D:\\lr6 web\\web6api\\web6api\\web6api\\web6api.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\lr6 web\\web6api\\web6api\\web6api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\makcp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -66,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\makcp\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
